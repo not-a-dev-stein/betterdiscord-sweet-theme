@@ -3,6 +3,8 @@
  * @name Sweet Discord
  * @version 1.0
  * @description An actual dark mode for discord based on the Sweet theme.
+ * @author not-a-dev-stein
+ * @source https://github.com/not-a-dev-stein/betterdiscord-sweet-theme
 
 **/
 
@@ -11,10 +13,10 @@
 .theme-dark,
 .theme-light,
 :root {
-   --background-primary: #171926 !important;
-   --background-secondary: #171928 !important;
+   --background-primary: rgba(22, 25, 37, 0.82) !important;
+   --background-secondary: rgba(21, 21, 30, 0.82) !important;
    --background-secondary-alt: #171924 !important;
-   --background-tertiary: #171928 !important;
+   --background-tertiary: rgba(21, 21, 30, 0.82) !important;
    --background-accent: #171721 !important;
    --background-floating: #171821 !important;
    --background-modifier-hover: rgba(255, 255, 255, 0.01) !important;
